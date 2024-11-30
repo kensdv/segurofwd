@@ -2,7 +2,9 @@
 
 This makes use of telethon to login in users
 
-the log in process is done via the ADMIN panel
+The log in process is done via the ADMIN panel
+
+YOU WILL BE NEEDING Python 3.11.10 because higher versions doesn't support AIOHTTP
 
 # Admin
 
