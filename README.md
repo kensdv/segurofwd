@@ -1,4 +1,4 @@
-# tg-forwarder
+### Seguro Fwd
 
 This makes use of telethon to login in users
 
